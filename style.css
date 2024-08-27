@@ -1,0 +1,26 @@
+body, html {
+    margin: 15px;
+}
+textarea{
+ resize: none;
+}
+
+body{
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+.list-item{
+ border-radius: 15px;
+ outline: solid black 5px;
+ margin: 0 auto;
+ margin-top: 35px;
+ text-align: left;
+ background-color: #295F98;
+ color: white;
+ font-size: 24px;
+ font-family: sans-serif;
+ width: 50%;
+ min-height: 100px;
+ padding: 15px;
+}
